@@ -23,11 +23,15 @@ Follow the README installation block, then: Generate the corpus, run train.py, a
 
 ## Five interview questions
 
-1. **What problem does this project solve, and what is its unit of work?** Explain adapt a small model for support routing, identify support platform developers as the audience, and trace one concrete example through the files above. Use the demonstration output rather than hypothetical impact.
-2. **Why did you choose the first design decision?** Fine-tune actual FLAN-T5-small weights locally for three support routing labels. Show the corresponding implementation and a test that would fail if that property were removed.
-3. **How do you protect correctness when inputs or execution change?** Split by template family before expanding examples so paraphrase groups cannot leak across splits. Explain the relevant invalid-input or edge-case test and distinguish a checked property from an untested assumption.
-4. **How do you make results inspectable and reproducible?** Choose the checkpoint using validation macro F1, then evaluate the test set once against TF-IDF and majority baselines. Point to actual outputs and recorded commands. Explain why a successful example is weaker evidence than a tested boundary or independently reconciled total.
-5. **What would you improve before real deployment or real-data use?** Authored synthetic data contain only three labels and a small number of templates. Perfect synthetic holdout scores are not evidence of production accuracy. Inputs truncate at 96 tokens. Model weights require several hundred MB and local CPU time; they are saved locally but excluded from Git. Choose one limitation, describe the missing evidence, and propose a measurable acceptance check rather than promising production readiness.
+1. **What was actually fine-tuned?** A pinned FLAN-T5-small sequence-to-sequence model was trained locally for three support-routing labels. The recorded outputs and evaluation come from an actual CPU training run.
+
+2. **Why split by template family?** Randomly splitting near-identical templates can leak phrasing across train and test. Holding out template families creates a more useful, though still limited, generalization check.
+
+3. **Why include a TF-IDF baseline?** A lightweight classifier may solve the same narrow task more cheaply. The evaluation compares the fine-tuned model with that baseline rather than assuming an LLM is necessary.
+
+4. **Does the perfect test score imply production readiness?** No. The 72 test examples are authored synthetic cases from a narrow template space. The measured macro F1 of 1.0 says nothing about messy real support traffic without further evaluation.
+
+5. **Why are the trained weights not in Git?** The checkpoint is large. The repository includes pinned model provenance, training code and measured artifacts; users regenerate the checkpoint before running local inference.
 
 ## Independent exercise
 
@@ -41,6 +45,6 @@ The implementation was developed with substantial AI assistance under Abhijith V
 
 Suggested factual bullet after personally validating the demo:
 
-- Implemented and validated adapt a small model for support routing using PyTorch · Transformers, with fine-tuning and documented correctness checks and limitations.
+- Fine-tuned FLAN-T5-small locally for three support-routing labels with template-family holdouts; measured macro F1 of 1.0 on 72 limited synthetic test examples.
 
 Use [VERIFICATION.md](VERIFICATION.md) to add only measured numbers. Do not claim production traffic, users, savings, upstream acceptance or cloud deployment without corresponding evidence.
