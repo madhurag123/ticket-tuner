@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "billing-0-0",
+    "text": "I was charged twice for the team workspace.",
+    "label": "billing",
+    "template_group": "billing-0",
+    "split": "train"
+  },
+  {
+    "id": "billing-0-1",
+    "text": "I was charged twice for the monthly plan.",
+    "label": "billing",
+    "template_group": "billing-0",
+    "split": "train"
+  },
+  {
+    "id": "billing-0-2",
+    "text": "I was charged twice for the reporting portal.",
+    "label": "billing",
+    "template_group": "billing-0",
+    "split": "train"
+  },
+  {
+    "id": "billing-0-3",
+    "text": "I was charged twice for the shared dashboard.",
+    "label": "billing",
+    "template_group": "billing-0",
+    "split": "train"
+  },
+  {
+    "id": "billing-0-4",
+    "text": "I was charged twice for the project account.",
+    "label": "billing",
+    "template_group": "billing-0",
+    "split": "train"
+  },
+  {
+    "id": "billing-0-5",
+    "text": "I was charged twice for the starter service.",
+    "label": "billing",
+    "template_group": "billing-0",
+    "split": "train"
+  },
+  {
+    "id": "billing-0-6",
+    "text": "I was charged twice for the analysis tool.",
+    "label": "billing",
+    "template_group": "billing-0",
+    "split": "train"
+  },
+  {
+    "id": "billing-0-7",
+    "text": "I was charged twice for the customer portal.",
+    "label": "billing",
+    "template_group": "billing-0",
+    "split": "train"
+  },
+  {
+    "id": "billing-1-0",
+    "text": "Please refund the payment for the team workspace.",
+    "label": "billing",
+    "template_group": "billing-1",
+    "split": "train"
+  },
+  {
+    "id": "billing-1-1",
+    "text": "Please refund the payment for the monthly plan.",
+    "label": "billing",
+    "template_group": "billing-1",
+    "split": "train"
+  },
+  {
+    "id": "billing-1-2",
+    "text": "Please refund the payment for the reporting portal.",
+    "label": "billing",
+    "template_group": "billing-1",
+    "split": "train"
+  },
+  {
+    "id": "billing-1-3",
+    "text": "Please refund the payment for the shared dashboard.",
+    "label": "billing",
+    "template_group": "billing-1",
+    "split": "train"
+  },
+  {
+    "id": "billing-1-4",
+    "text": "Please refund the payment for the project account.",
+    "label": "billing",
+    "template_group": "billing-1",
+    "split": "train"
+  },
+  {
+    "id": "billing-1-5",
+    "text": "Please refund the payment for the starter service.",
+    "label": "billing",
+    "template_group": "billing-1",
+    "split": "train"
+  },
+  {
+    "id": "billing-1-6",
+    "text": "Please refund the payment for the analysis tool.",
+    "label": "billing",
+    "template_group": "billing-1",
+    "split": "train"
+  },
+  {
+    "id": "billing-1-7",
+    "text": "Please refund the payment for the customer portal.",
+    "label": "billing",
+    "template_group": "billing-1",
+    "split": "train"
+  },
+  {
+    "id": "billing-2-0",
+    "text": "The invoice for the team workspace has the wrong amount.",
+    "label": "billing",
+    "template_group": "billing-2",
+    "split": "train"
+  },
+  {
+    "id": "billing-2-1",
+    "text": "The invoice for the monthly plan has the wrong amount.",
+    "label": "billing",
+    "template_group": "billing-2",
+    "split": "train"
+  },
+  {
+    "id": "billing-2-2",
+    "text": "The invoice for the reporting portal has the wrong amount.",
+    "label": "billing",
+    "template_group": "billing-2",
+    "split": "train"
+  },
+  {
+    "id": "billing-2-3",
+    "text": "The invoice for the shared dashboard has the wrong amount.",
+    "label": "billing",
+    "template_group": "billing-2",
+    "split": "train"
+  },
+  {
+    "id": "billing-2-4",
+    "text": "The invoice for the project account has the wrong amount.",
+    "label": "billing",
+    "template_group": "billing-2",
+    "split": "train"
+  },
+  {
+    "id": "billing-2-5",
+    "text": "The invoice for the starter service has the wrong amount.",
+    "label": "billing",
+    "template_group": "billing-2",
+    "split": "train"
+  },
+  {
+    "id": "billing-2-6",
+    "text": "The invoice for the analysis tool has the wrong amount.",
+    "label": "billing",
+    "template_group": "billing-2",
+    "split": "train"
+  },
+  {
+    "id": "billing-2-7",
+    "text": "The invoice for the customer portal has the wrong amount.",
+    "label": "billing",
+    "template_group": "billing-2",
+    "split": "train"
+  },
+  {
+    "id": "billing-3-0",
+    "text": "Why did my bill increase for the team workspace?",
+    "label": "billing",
+    "template_group": "billing-3",
+    "split": "train"
+  },
+  {
+    "id": "billing-3-1",
+    "text": "Why did my bill increase for the monthly plan?",
+    "label": "billing",
+    "template_group": "billing-3",
+    "split": "train"
+  },
+  {
+    "id": "billing-3-2",
+    "text": "Why did my bill increase for the reporting portal?",
+    "label": "billing",
+    "template_group": "billing-3",
+    "split": "train"
+  },
+  {
+    "id": "billing-3-3",
+    "text": "Why did my bill increase for the shared dashboard?",
+    "label": "billing",
+    "template_group": "billing-3",
+    "split": "train"
+  },
+  {
+    "id": "billing-3-4",
+    "text": "Why did my bill increase for the project account?",
+    "label": "billing",
+    "template_group": "billing-3",
+    "split": "train"
+  },
+  {
+    "id": "billing-3-5",
+    "text": "Why did my bill increase for the starter service?",
+    "label": "billing",
+    "template_group": "billing-3",
+    "split": "train"
+  },
+  {
+    "id": "billing-3-6",
+    "text": "Why did my bill increase for the analysis tool?",
+    "label": "billing",
+    "template_group": "billing-3",
+    "split": "train"
+  },
+  {
+    "id": "billing-3-7",
+    "text": "Why did my bill increase for the customer portal?",
+    "label": "billing",
+    "template_group": "billing-3",
+    "split": "train"
+  },
+  {
+    "id": "billing-4-0",
+    "text": "Cancel the renewal charge for the team workspace.",
+    "label": "billing",
+    "template_group": "billing-4",
+    "split": "train"
+  },
+  {
+    "id": "billing-4-1",
+    "text": "Cancel the renewal charge for the monthly plan.",
+    "label": "billing",
+    "template_group": "billing-4",
+    "split": "train"
+  },
+  {
+    "id": "billing-4-2",
+    "text": "Cancel the renewal charge for the reporting portal.",
+    "label": "billing",
+    "template_group": "billing-4",
+    "split": "train"
+  },
+  {
+    "id": "billing-4-3",
+    "text": "Cancel the renewal charge for the shared dashboard.",
+    "label": "billing",
+    "template_group": "billing-4",
+    "split": "train"
+  },
+  {
+    "id": "billing-4-4",
+    "text": "Cancel the renewal charge for the project account.",
+    "label": "billing",
+    "template_group": "billing-4",
+    "split": "train"
+  },
+  {
+    "id": "billing-4-5",
+    "text": "Cancel the renewal charge for the starter service.",
+    "label": "billing",
+    "template_group": "billing-4",
+    "split": "train"
+  },
+  {
+    "id": "billing-4-6",
+    "text": "Cancel the renewal charge for the analysis tool.",
+    "label": "billing",
+    "template_group": "billing-4",
+    "split": "train"
+  },
+  {
+    "id": "billing-4-7",
+    "text": "Cancel the renewal charge for the customer portal.",
+    "label": "billing",
+    "template_group": "billing-4",
+    "split": "train"
+  },
+  {
+    "id": "billing-5-0",
+    "text": "My credit card was debited but the team workspace is unpaid.",
+    "label": "billing",
+    "template_group": "billing-5",
+    "split": "train"
+  },
+  {
+    "id": "billing-5-1",
+    "text": "My credit card was debited but the monthly plan is unpaid.",
+    "label": "billing",
+    "template_group": "billing-5",
+    "split": "train"
+  },
+  {
+    "id": "billing-5-2",
+    "text": "My credit card was debited but the reporting portal is unpaid.",
+    "label": "billing",
+    "template_group": "billing-5",
+    "split": "train"
+  },
+  {
+    "id": "billing-5-3",
+    "text": "My credit card was debited but the shared dashboard is unpaid.",
+    "label": "billing",
+    "template_group": "billing-5",
+    "split": "train"
+  },
+  {
+    "id": "billing-5-4",
+    "text": "My credit card was debited but the project account is unpaid.",
+    "label": "billing",
+    "template_group": "billing-5",
+    "split": "train"
+  },
+  {
+    "id": "billing-5-5",
+    "text": "My credit card was debited but the starter service is unpaid.",
+    "label": "billing",
+    "template_group": "billing-5",
+    "split": "train"
+  },
+  {
+    "id": "billing-5-6",
+    "text": "My credit card was debited but the analysis tool is unpaid.",
+    "label": "billing",
+    "template_group": "billing-5",
+    "split": "train"
+  },
+  {
+    "id": "billing-5-7",
+    "text": "My credit card was debited but the customer portal is unpaid.",
+    "label": "billing",
+    "template_group": "billing-5",
+    "split": "train"
+  },
+  {
+    "id": "billing-6-0",
+    "text": "Can I get a receipt for the team workspace?",
+    "label": "billing",
+    "template_group": "billing-6",
+    "split": "train"
+  },
+  {
+    "id": "billing-6-1",
+    "text": "Can I get a receipt for the monthly plan?",
+    "label": "billing",
+    "template_group": "billing-6",
+    "split": "train"
+  },
+  {
+    "id": "billing-6-2",
+    "text": "Can I get a receipt for the reporting portal?",
+    "label": "billing",
+    "template_group": "billing-6",
+    "split": "train"
+  },
+  {
+    "id": "billing-6-3",
+    "text": "Can I get a receipt for the shared dashboard?",
+    "label": "billing",
+    "template_group": "billing-6",
+    "split": "train"
+  },
+  {
+    "id": "billing-6-4",
+    "text": "Can I get a receipt for the project account?",
+    "label": "billing",
+    "template_group": "billing-6",
+    "split": "train"
+  },
+  {
+    "id": "billing-6-5",
+    "text": "Can I get a receipt for the starter service?",
+    "label": "billing",
+    "template_group": "billing-6",
+    "split": "train"
+  },
+  {
+    "id": "billing-6-6",
+    "text": "Can I get a receipt for the analysis tool?",
+    "label": "billing",
+    "template_group": "billing-6",
+    "split": "train"
+  },
+  {
+    "id": "billing-6-7",
+    "text": "Can I get a receipt for the customer portal?",
+    "label": "billing",
+    "template_group": "billing-6",
+    "split": "train"
+  },
+  {
+    "id": "billing-7-0",
+    "text": "I need to change the payment method for the team workspace.",
+    "label": "billing",
+    "template_group": "billing-7",
+    "split": "train"
+  },
+  {
+    "id": "billing-7-1",
+    "text": "I need to change the payment method for the monthly plan.",
+    "label": "billing",
+    "template_group": "billing-7",
+    "split": "train"
+  },
+  {
+    "id": "billing-7-2",
+    "text": "I need to change the payment method for the reporting portal.",
+    "label": "billing",
+    "template_group": "billing-7",
+    "split": "train"
+  },
+  {
+    "id": "billing-7-3",
+    "text": "I need to change the payment method for the shared dashboard.",
+    "label": "billing",
+    "template_group": "billing-7",
+    "split": "train"
+  },
+  {
+    "id": "billing-7-4",
+    "text": "I need to change the payment method for the project account.",
+    "label": "billing",
+    "template_group": "billing-7",
+    "split": "train"
+  },
+  {
+    "id": "billing-7-5",
+    "text": "I need to change the payment method for the starter service.",
+    "label": "billing",
+    "template_group": "billing-7",
+    "split": "train"
+  },
+  {
+    "id": "billing-7-6",
+    "text": "I need to change the payment method for the analysis tool.",
+    "label": "billing",
+    "template_group": "billing-7",
+    "split": "train"
+  },
+  {
+    "id": "billing-7-7",
+    "text": "I need to change the payment method for the customer portal.",
+    "label": "billing",
+    "template_group": "billing-7",
+    "split": "train"
+  },
+  {
+    "id": "billing-8-0",
+    "text": "An unexpected fee appeared on the team workspace.",
+    "label": "billing",
+    "template_group": "billing-8",
+    "split": "train"
+  },
+  {
+    "id": "billing-8-1",
+    "text": "An unexpected fee appeared on the monthly plan.",
+    "label": "billing",
+    "template_group": "billing-8",
+    "split": "train"
+  },
+  {
+    "id": "billing-8-2",
+    "text": "An unexpected fee appeared on the reporting portal.",
+    "label": "billing",
+    "template_group": "billing-8",
+    "split": "train"
+  },
+  {
+    "id": "billing-8-3",
+    "text": "An unexpected fee appeared on the shared dashboard.",
+    "label": "billing",
+    "template_group": "billing-8",
+    "split": "train"
+  },
+  {
+    "id": "billing-8-4",
+    "text": "An unexpected fee appeared on the project account.",
+    "label": "billing",
+    "template_group": "billing-8",
+    "split": "train"
+  },
+  {
+    "id": "billing-8-5",
+    "text": "An unexpected fee appeared on the starter service.",
+    "label": "billing",
+    "template_group": "billing-8",
+    "split": "train"
+  },
+  {
+    "id": "billing-8-6",
+    "text": "An unexpected fee appeared on the analysis tool.",
+    "label": "billing",
+    "template_group": "billing-8",
+    "split": "train"
+  },
+  {
+    "id": "billing-8-7",
+    "text": "An unexpected fee appeared on the customer portal.",
+    "label": "billing",
+    "template_group": "billing-8",
+    "split": "train"
+  },
+  {
+    "id": "billing-9-0",
+    "text": "The subscription price for the team workspace is incorrect.",
+    "label": "billing",
+    "template_group": "billing-9",
+    "split": "validation"
+  },
+  {
+    "id": "billing-9-1",
+    "text": "The subscription price for the monthly plan is incorrect.",
+    "label": "billing",
+    "template_group": "billing-9",
+    "split": "validation"
+  },
+  {
+    "id": "billing-9-2",
+    "text": "The subscription price for the reporting portal is incorrect.",
+    "label": "billing",
+    "template_group": "billing-9",
+    "split": "validation"
+  },
+  {
+    "id": "billing-9-3",
+    "text": "The subscription price for the shared dashboard is incorrect.",
+    "label": "billing",
+    "template_group": "billing-9",
+    "split": "validation"
+  },
+  {
+    "id": "billing-9-4",
+    "text": "The subscription price for the project account is incorrect.",
+    "label": "billing",
+    "template_group": "billing-9",
+    "split": "validation"
+  },
+  {
+    "id": "billing-9-5",
+    "text": "The subscription price for the starter service is incorrect.",
+    "label": "billing",
+    "template_group": "billing-9",
+    "split": "validation"
+  },
+  {
+    "id": "billing-9-6",
+    "text": "The subscription price for the analysis tool is incorrect.",
+    "label": "billing",
+    "template_group": "billing-9",
+    "split": "validation"
+  },
+  {
+    "id": "billing-9-7",
+    "text": "The subscription price for the customer portal is incorrect.",
+    "label": "billing",
+    "template_group": "billing-9",
+    "split": "validation"
+  },
+  {
+    "id": "billing-10-0",
+    "text": "Please reverse the duplicate transaction for the team workspace.",
+    "label": "billing",
+    "template_group": "billing-10",
+    "split": "validation"
+  },
+  {
+    "id": "billing-10-1",
+    "text": "Please reverse the duplicate transaction for the monthly plan.",
+    "label": "billing",
+    "template_group": "billing-10",
+    "split": "validation"
+  },
+  {
+    "id": "billing-10-2",
+    "text": "Please reverse the duplicate transaction for the reporting portal.",
+    "label": "billing",
+    "template_group": "billing-10",
+    "split": "validation"
+  },
+  {
+    "id": "billing-10-3",
+    "text": "Please reverse the duplicate transaction for the shared dashboard.",
+    "label": "billing",
+    "template_group": "billing-10",
+    "split": "validation"
+  },
+  {
+    "id": "billing-10-4",
+    "text": "Please reverse the duplicate transaction for the project account.",
+    "label": "billing",
+    "template_group": "billing-10",
+    "split": "validation"
+  },
+  {
+    "id": "billing-10-5",
+    "text": "Please reverse the duplicate transaction for the starter service.",
+    "label": "billing",
+    "template_group": "billing-10",
+    "split": "validation"
+  },
+  {
+    "id": "billing-10-6",
+    "text": "Please reverse the duplicate transaction for the analysis tool.",
+    "label": "billing",
+    "template_group": "billing-10",
+    "split": "validation"
+  },
+  {
+    "id": "billing-10-7",
+    "text": "Please reverse the duplicate transaction for the customer portal.",
+    "label": "billing",
+    "template_group": "billing-10",
+    "split": "validation"
+  },
+  {
+    "id": "billing-11-0",
+    "text": "Explain the tax included in the team workspace.",
+    "label": "billing",
+    "template_group": "billing-11",
+    "split": "validation"
+  },
+  {
+    "id": "billing-11-1",
+    "text": "Explain the tax included in the monthly plan.",
+    "label": "billing",
+    "template_group": "billing-11",
+    "split": "validation"
+  },
+  {
+    "id": "billing-11-2",
+    "text": "Explain the tax included in the reporting portal.",
+    "label": "billing",
+    "template_group": "billing-11",
+    "split": "validation"
+  },
+  {
+    "id": "billing-11-3",
+    "text": "Explain the tax included in the shared dashboard.",
+    "label": "billing",
+    "template_group": "billing-11",
+    "split": "validation"
+  },
+  {
+    "id": "billing-11-4",
+    "text": "Explain the tax included in the project account.",
+    "label": "billing",
+    "template_group": "billing-11",
+    "split": "validation"
+  },
+  {
+    "id": "billing-11-5",
+    "text": "Explain the tax included in the starter service.",
+    "label": "billing",
+    "template_group": "billing-11",
+    "split": "validation"
+  },
+  {
+    "id": "billing-11-6",
+    "text": "Explain the tax included in the analysis tool.",
+    "label": "billing",
+    "template_group": "billing-11",
+    "split": "validation"
+  },
+  {
+    "id": "billing-11-7",
+    "text": "Explain the tax included in the customer portal.",
+    "label": "billing",
+    "template_group": "billing-11",
+    "split": "validation"
+  },
+  {
+    "id": "billing-12-0",
+    "text": "The discount was not applied to the team workspace.",
+    "label": "billing",
+    "template_group": "billing-12",
+    "split": "test"
+  },
+  {
+    "id": "billing-12-1",
+    "text": "The discount was not applied to the monthly plan.",
+    "label": "billing",
+    "template_group": "billing-12",
+    "split": "test"
+  },
+  {
+    "id": "billing-12-2",
+    "text": "The discount was not applied to the reporting portal.",
+    "label": "billing",
+    "template_group": "billing-12",
+    "split": "test"
+  },
+  {
+    "id": "billing-12-3",
+    "text": "The discount was not applied to the shared dashboard.",
+    "label": "billing",
+    "template_group": "billing-12",
+    "split": "test"
+  },
+  {
+    "id": "billing-12-4",
+    "text": "The discount was not applied to the project account.",
+    "label": "billing",
+    "template_group": "billing-12",
+    "split": "test"
+  },
+  {
+    "id": "billing-12-5",
+    "text": "The discount was not applied to the starter service.",
+    "label": "billing",
+    "template_group": "billing-12",
+    "split": "test"
+  },
+  {
+    "id": "billing-12-6",
+    "text": "The discount was not applied to the analysis tool.",
+    "label": "billing",
+    "template_group": "billing-12",
+    "split": "test"
+  },
+  {
+    "id": "billing-12-7",
+    "text": "The discount was not applied to the customer portal.",
+    "label": "billing",
+    "template_group": "billing-12",
+    "split": "test"
+  },
+  {
+    "id": "billing-13-0",
+    "text": "My account shows an overdue invoice for the team workspace.",
+    "label": "billing",
+    "template_group": "billing-13",
+    "split": "test"
+  },
+  {
+    "id": "billing-13-1",
+    "text": "My account shows an overdue invoice for the monthly plan.",
+    "label": "billing",
+    "template_group": "billing-13",
+    "split": "test"
+  },
+  {
+    "id": "billing-13-2",
+    "text": "My account shows an overdue invoice for the reporting portal.",
+    "label": "billing",
+    "template_group": "billing-13",
+    "split": "test"
+  },
+  {
+    "id": "billing-13-3",
+    "text": "My account shows an overdue invoice for the shared dashboard.",
+    "label": "billing",
+    "template_group": "billing-13",
+    "split": "test"
+  },
+  {
+    "id": "billing-13-4",
+    "text": "My account shows an overdue invoice for the project account.",
+    "label": "billing",
+    "template_group": "billing-13",
+    "split": "test"
+  },
+  {
+    "id": "billing-13-5",
+    "text": "My account shows an overdue invoice for the starter service.",
+    "label": "billing",
+    "template_group": "billing-13",
+    "split": "test"
+  },
+  {
+    "id": "billing-13-6",
+    "text": "My account shows an overdue invoice for the analysis tool.",
+    "label": "billing",
+    "template_group": "billing-13",
+    "split": "test"
+  },
+  {
+    "id": "billing-13-7",
+    "text": "My account shows an overdue invoice for the customer portal.",
+    "label": "billing",
+    "template_group": "billing-13",
+    "split": "test"
+  },
+  {
+    "id": "billing-14-0",
+    "text": "Can you correct the billing address on the team workspace?",
+    "label": "billing",
+    "template_group": "billing-14",
+    "split": "test"
+  },
+  {
+    "id": "billing-14-1",
+    "text": "Can you correct the billing address on the monthly plan?",
+    "label": "billing",
+    "template_group": "billing-14",
+    "split": "test"
+  },
+  {
+    "id": "billing-14-2",
+    "text": "Can you correct the billing address on the reporting portal?",
+    "label": "billing",
+    "template_group": "billing-14",
+    "split": "test"
+  },
+  {
+    "id": "billing-14-3",
+    "text": "Can you correct the billing address on the shared dashboard?",
+    "label": "billing",
+    "template_group": "billing-14",
+    "split": "test"
+  },
+  {
+    "id": "billing-14-4",
+    "text": "Can you correct the billing address on the project account?",
+    "label": "billing",
+    "template_group": "billing-14",
+    "split": "test"
+  },
+  {
+    "id": "billing-14-5",
+    "text": "Can you correct the billing address on the starter service?",
+    "label": "billing",
+    "template_group": "billing-14",
+    "split": "test"
+  },
+  {
+    "id": "billing-14-6",
+    "text": "Can you correct the billing address on the analysis tool?",
+    "label": "billing",
+    "template_group": "billing-14",
+    "split": "test"
+  },
+  {
+    "id": "billing-14-7",
+    "text": "Can you correct the billing address on the customer portal?",
+    "label": "billing",
+    "template_group": "billing-14",
+    "split": "test"
+  },
+  {
+    "id": "access-0-0",
+    "text": "I cannot sign in to the team workspace.",
+    "label": "access",
+    "template_group": "access-0",
+    "split": "train"
+  },
+  {
+    "id": "access-0-1",
+    "text": "I cannot sign in to the monthly plan.",
+    "label": "access",
+    "template_group": "access-0",
+    "split": "train"
+  },
+  {
+    "id": "access-0-2",
+    "text": "I cannot sign in to the reporting portal.",
+    "label": "access",
+    "template_group": "access-0",
+    "split": "train"
+  },
+  {
+    "id": "access-0-3",
+    "text": "I cannot sign in to the shared dashboard.",
+    "label": "access",
+    "template_group": "access-0",
+    "split": "train"
+  },
+  {
+    "id": "access-0-4",
+    "text": "I cannot sign in to the project account.",
+    "label": "access",
+    "template_group": "access-0",
+    "split": "train"
+  },
+  {
+    "id": "access-0-5",
+    "text": "I cannot sign in to the starter service.",
+    "label": "access",
+    "template_group": "access-0",
+    "split": "train"
+  },
+  {
+    "id": "access-0-6",
+    "text": "I cannot sign in to the analysis tool.",
+    "label": "access",
+    "template_group": "access-0",
+    "split": "train"
+  },
+  {
+    "id": "access-0-7",
+    "text": "I cannot sign in to the customer portal.",
+    "label": "access",
+    "template_group": "access-0",
+    "split": "train"
+  },
+  {
+    "id": "access-1-0",
+    "text": "Reset my password for the team workspace.",
+    "label": "access",
+    "template_group": "access-1",
+    "split": "train"
+  },
+  {
+    "id": "access-1-1",
+    "text": "Reset my password for the monthly plan.",
+    "label": "access",
+    "template_group": "access-1",
+    "split": "train"
+  },
+  {
+    "id": "access-1-2",
+    "text": "Reset my password for the reporting portal.",
+    "label": "access",
+    "template_group": "access-1",
+    "split": "train"
+  },
+  {
+    "id": "access-1-3",
+    "text": "Reset my password for the shared dashboard.",
+    "label": "access",
+    "template_group": "access-1",
+    "split": "train"
+  },
+  {
+    "id": "access-1-4",
+    "text": "Reset my password for the project account.",
+    "label": "access",
+    "template_group": "access-1",
+    "split": "train"
+  },
+  {
+    "id": "access-1-5",
+    "text": "Reset my password for the starter service.",
+    "label": "access",
+    "template_group": "access-1",
+    "split": "train"
+  },
+  {
+    "id": "access-1-6",
+    "text": "Reset my password for the analysis tool.",
+    "label": "access",
+    "template_group": "access-1",
+    "split": "train"
+  },
+  {
+    "id": "access-1-7",
+    "text": "Reset my password for the customer portal.",
+    "label": "access",
+    "template_group": "access-1",
+    "split": "train"
+  },
+  {
+    "id": "access-2-0",
+    "text": "The login code for the team workspace never arrived.",
+    "label": "access",
+    "template_group": "access-2",
+    "split": "train"
+  },
+  {
+    "id": "access-2-1",
+    "text": "The login code for the monthly plan never arrived.",
+    "label": "access",
+    "template_group": "access-2",
+    "split": "train"
+  },
+  {
+    "id": "access-2-2",
+    "text": "The login code for the reporting portal never arrived.",
+    "label": "access",
+    "template_group": "access-2",
+    "split": "train"
+  },
+  {
+    "id": "access-2-3",
+    "text": "The login code for the shared dashboard never arrived.",
+    "label": "access",
+    "template_group": "access-2",
+    "split": "train"
+  },
+  {
+    "id": "access-2-4",
+    "text": "The login code for the project account never arrived.",
+    "label": "access",
+    "template_group": "access-2",
+    "split": "train"
+  },
+  {
+    "id": "access-2-5",
+    "text": "The login code for the starter service never arrived.",
+    "label": "access",
+    "template_group": "access-2",
+    "split": "train"
+  },
+  {
+    "id": "access-2-6",
+    "text": "The login code for the analysis tool never arrived.",
+    "label": "access",
+    "template_group": "access-2",
+    "split": "train"
+  },
+  {
+    "id": "access-2-7",
+    "text": "The login code for the customer portal never arrived.",
+    "label": "access",
+    "template_group": "access-2",
+    "split": "train"
+  },
+  {
+    "id": "access-3-0",
+    "text": "My account is locked out of the team workspace.",
+    "label": "access",
+    "template_group": "access-3",
+    "split": "train"
+  },
+  {
+    "id": "access-3-1",
+    "text": "My account is locked out of the monthly plan.",
+    "label": "access",
+    "template_group": "access-3",
+    "split": "train"
+  },
+  {
+    "id": "access-3-2",
+    "text": "My account is locked out of the reporting portal.",
+    "label": "access",
+    "template_group": "access-3",
+    "split": "train"
+  },
+  {
+    "id": "access-3-3",
+    "text": "My account is locked out of the shared dashboard.",
+    "label": "access",
+    "template_group": "access-3",
+    "split": "train"
+  },
+  {
+    "id": "access-3-4",
+    "text": "My account is locked out of the project account.",
+    "label": "access",
+    "template_group": "access-3",
+    "split": "train"
+  },
+  {
+    "id": "access-3-5",
+    "text": "My account is locked out of the starter service.",
+    "label": "access",
+    "template_group": "access-3",
+    "split": "train"
+  },
+  {
+    "id": "access-3-6",
+    "text": "My account is locked out of the analysis tool.",
+    "label": "access",
+    "template_group": "access-3",
+    "split": "train"
+  },
+  {
+    "id": "access-3-7",
+    "text": "My account is locked out of the customer portal.",
+    "label": "access",
+    "template_group": "access-3",
+    "split": "train"
+  },
+  {
+    "id": "access-4-0",
+    "text": "I lost my authenticator for the team workspace.",
+    "label": "access",
+    "template_group": "access-4",
+    "split": "train"
+  },
+  {
+    "id": "access-4-1",
+    "text": "I lost my authenticator for the monthly plan.",
+    "label": "access",
+    "template_group": "access-4",
+    "split": "train"
+  },
+  {
+    "id": "access-4-2",
+    "text": "I lost my authenticator for the reporting portal.",
+    "label": "access",
+    "template_group": "access-4",
+    "split": "train"
+  },
+  {
+    "id": "access-4-3",
+    "text": "I lost my authenticator for the shared dashboard.",
+    "label": "access",
+    "template_group": "access-4",
+    "split": "train"
+  },
+  {
+    "id": "access-4-4",
+    "text": "I lost my authenticator for the project account.",
+    "label": "access",
+    "template_group": "access-4",
+    "split": "train"
+  },
+  {
+    "id": "access-4-5",
+    "text": "I lost my authenticator for the starter service.",
+    "label": "access",
+    "template_group": "access-4",
+    "split": "train"
+  },
+  {
+    "id": "access-4-6",
+    "text": "I lost my authenticator for the analysis tool.",
+    "label": "access",
+    "template_group": "access-4",
+    "split": "train"
+  },
+  {
+    "id": "access-4-7",
+    "text": "I lost my authenticator for the customer portal.",
+    "label": "access",
+    "template_group": "access-4",
+    "split": "train"
+  },
+  {
+    "id": "access-5-0",
+    "text": "My credentials are rejected by the team workspace.",
+    "label": "access",
+    "template_group": "access-5",
+    "split": "train"
+  },
+  {
+    "id": "access-5-1",
+    "text": "My credentials are rejected by the monthly plan.",
+    "label": "access",
+    "template_group": "access-5",
+    "split": "train"
+  },
+  {
+    "id": "access-5-2",
+    "text": "My credentials are rejected by the reporting portal.",
+    "label": "access",
+    "template_group": "access-5",
+    "split": "train"
+  },
+  {
+    "id": "access-5-3",
+    "text": "My credentials are rejected by the shared dashboard.",
+    "label": "access",
+    "template_group": "access-5",
+    "split": "train"
+  },
+  {
+    "id": "access-5-4",
+    "text": "My credentials are rejected by the project account.",
+    "label": "access",
+    "template_group": "access-5",
+    "split": "train"
+  },
+  {
+    "id": "access-5-5",
+    "text": "My credentials are rejected by the starter service.",
+    "label": "access",
+    "template_group": "access-5",
+    "split": "train"
+  },
+  {
+    "id": "access-5-6",
+    "text": "My credentials are rejected by the analysis tool.",
+    "label": "access",
+    "template_group": "access-5",
+    "split": "train"
+  },
+  {
+    "id": "access-5-7",
+    "text": "My credentials are rejected by the customer portal.",
+    "label": "access",
+    "template_group": "access-5",
+    "split": "train"
+  },
+  {
+    "id": "access-6-0",
+    "text": "How can I recover access to the team workspace?",
+    "label": "access",
+    "template_group": "access-6",
+    "split": "train"
+  },
+  {
+    "id": "access-6-1",
+    "text": "How can I recover access to the monthly plan?",
+    "label": "access",
+    "template_group": "access-6",
+    "split": "train"
+  },
+  {
+    "id": "access-6-2",
+    "text": "How can I recover access to the reporting portal?",
+    "label": "access",
+    "template_group": "access-6",
+    "split": "train"
+  },
+  {
+    "id": "access-6-3",
+    "text": "How can I recover access to the shared dashboard?",
+    "label": "access",
+    "template_group": "access-6",
+    "split": "train"
+  },
+  {
+    "id": "access-6-4",
+    "text": "How can I recover access to the project account?",
+    "label": "access",
+    "template_group": "access-6",
+    "split": "train"
+  },
+  {
+    "id": "access-6-5",
+    "text": "How can I recover access to the starter service?",
+    "label": "access",
+    "template_group": "access-6",
+    "split": "train"
+  },
+  {
+    "id": "access-6-6",
+    "text": "How can I recover access to the analysis tool?",
+    "label": "access",
+    "template_group": "access-6",
+    "split": "train"
+  },
+  {
+    "id": "access-6-7",
+    "text": "How can I recover access to the customer portal?",
+    "label": "access",
+    "template_group": "access-6",
+    "split": "train"
+  },
+  {
+    "id": "access-7-0",
+    "text": "The verification link for the team workspace expired.",
+    "label": "access",
+    "template_group": "access-7",
+    "split": "train"
+  },
+  {
+    "id": "access-7-1",
+    "text": "The verification link for the monthly plan expired.",
+    "label": "access",
+    "template_group": "access-7",
+    "split": "train"
+  },
+  {
+    "id": "access-7-2",
+    "text": "The verification link for the reporting portal expired.",
+    "label": "access",
+    "template_group": "access-7",
+    "split": "train"
+  },
+  {
+    "id": "access-7-3",
+    "text": "The verification link for the shared dashboard expired.",
+    "label": "access",
+    "template_group": "access-7",
+    "split": "train"
+  },
+  {
+    "id": "access-7-4",
+    "text": "The verification link for the project account expired.",
+    "label": "access",
+    "template_group": "access-7",
+    "split": "train"
+  },
+  {
+    "id": "access-7-5",
+    "text": "The verification link for the starter service expired.",
+    "label": "access",
+    "template_group": "access-7",
+    "split": "train"
+  },
+  {
+    "id": "access-7-6",
+    "text": "The verification link for the analysis tool expired.",
+    "label": "access",
+    "template_group": "access-7",
+    "split": "train"
+  },
+  {
+    "id": "access-7-7",
+    "text": "The verification link for the customer portal expired.",
+    "label": "access",
+    "template_group": "access-7",
+    "split": "train"
+  },
+  {
+    "id": "access-8-0",
+    "text": "I need to update the email used to log into the team workspace.",
+    "label": "access",
+    "template_group": "access-8",
+    "split": "train"
+  },
+  {
+    "id": "access-8-1",
+    "text": "I need to update the email used to log into the monthly plan.",
+    "label": "access",
+    "template_group": "access-8",
+    "split": "train"
+  },
+  {
+    "id": "access-8-2",
+    "text": "I need to update the email used to log into the reporting portal.",
+    "label": "access",
+    "template_group": "access-8",
+    "split": "train"
+  },
+  {
+    "id": "access-8-3",
+    "text": "I need to update the email used to log into the shared dashboard.",
+    "label": "access",
+    "template_group": "access-8",
+    "split": "train"
+  },
+  {
+    "id": "access-8-4",
+    "text": "I need to update the email used to log into the project account.",
+    "label": "access",
+    "template_group": "access-8",
+    "split": "train"
+  },
+  {
+    "id": "access-8-5",
+    "text": "I need to update the email used to log into the starter service.",
+    "label": "access",
+    "template_group": "access-8",
+    "split": "train"
+  },
+  {
+    "id": "access-8-6",
+    "text": "I need to update the email used to log into the analysis tool.",
+    "label": "access",
+    "template_group": "access-8",
+    "split": "train"
+  },
+  {
+    "id": "access-8-7",
+    "text": "I need to update the email used to log into the customer portal.",
+    "label": "access",
+    "template_group": "access-8",
+    "split": "train"
+  },
+  {
+    "id": "access-9-0",
+    "text": "Two factor authentication blocks the team workspace.",
+    "label": "access",
+    "template_group": "access-9",
+    "split": "validation"
+  },
+  {
+    "id": "access-9-1",
+    "text": "Two factor authentication blocks the monthly plan.",
+    "label": "access",
+    "template_group": "access-9",
+    "split": "validation"
+  },
+  {
+    "id": "access-9-2",
+    "text": "Two factor authentication blocks the reporting portal.",
+    "label": "access",
+    "template_group": "access-9",
+    "split": "validation"
+  },
+  {
+    "id": "access-9-3",
+    "text": "Two factor authentication blocks the shared dashboard.",
+    "label": "access",
+    "template_group": "access-9",
+    "split": "validation"
+  },
+  {
+    "id": "access-9-4",
+    "text": "Two factor authentication blocks the project account.",
+    "label": "access",
+    "template_group": "access-9",
+    "split": "validation"
+  },
+  {
+    "id": "access-9-5",
+    "text": "Two factor authentication blocks the starter service.",
+    "label": "access",
+    "template_group": "access-9",
+    "split": "validation"
+  },
+  {
+    "id": "access-9-6",
+    "text": "Two factor authentication blocks the analysis tool.",
+    "label": "access",
+    "template_group": "access-9",
+    "split": "validation"
+  },
+  {
+    "id": "access-9-7",
+    "text": "Two factor authentication blocks the customer portal.",
+    "label": "access",
+    "template_group": "access-9",
+    "split": "validation"
+  },
+  {
+    "id": "access-10-0",
+    "text": "The sign-in page keeps rejecting me for the team workspace.",
+    "label": "access",
+    "template_group": "access-10",
+    "split": "validation"
+  },
+  {
+    "id": "access-10-1",
+    "text": "The sign-in page keeps rejecting me for the monthly plan.",
+    "label": "access",
+    "template_group": "access-10",
+    "split": "validation"
+  },
+  {
+    "id": "access-10-2",
+    "text": "The sign-in page keeps rejecting me for the reporting portal.",
+    "label": "access",
+    "template_group": "access-10",
+    "split": "validation"
+  },
+  {
+    "id": "access-10-3",
+    "text": "The sign-in page keeps rejecting me for the shared dashboard.",
+    "label": "access",
+    "template_group": "access-10",
+    "split": "validation"
+  },
+  {
+    "id": "access-10-4",
+    "text": "The sign-in page keeps rejecting me for the project account.",
+    "label": "access",
+    "template_group": "access-10",
+    "split": "validation"
+  },
+  {
+    "id": "access-10-5",
+    "text": "The sign-in page keeps rejecting me for the starter service.",
+    "label": "access",
+    "template_group": "access-10",
+    "split": "validation"
+  },
+  {
+    "id": "access-10-6",
+    "text": "The sign-in page keeps rejecting me for the analysis tool.",
+    "label": "access",
+    "template_group": "access-10",
+    "split": "validation"
+  },
+  {
+    "id": "access-10-7",
+    "text": "The sign-in page keeps rejecting me for the customer portal.",
+    "label": "access",
+    "template_group": "access-10",
+    "split": "validation"
+  },
+  {
+    "id": "access-11-0",
+    "text": "I forgot which username I use for the team workspace.",
+    "label": "access",
+    "template_group": "access-11",
+    "split": "validation"
+  },
+  {
+    "id": "access-11-1",
+    "text": "I forgot which username I use for the monthly plan.",
+    "label": "access",
+    "template_group": "access-11",
+    "split": "validation"
+  },
+  {
+    "id": "access-11-2",
+    "text": "I forgot which username I use for the reporting portal.",
+    "label": "access",
+    "template_group": "access-11",
+    "split": "validation"
+  },
+  {
+    "id": "access-11-3",
+    "text": "I forgot which username I use for the shared dashboard.",
+    "label": "access",
+    "template_group": "access-11",
+    "split": "validation"
+  },
+  {
+    "id": "access-11-4",
+    "text": "I forgot which username I use for the project account.",
+    "label": "access",
+    "template_group": "access-11",
+    "split": "validation"
+  },
+  {
+    "id": "access-11-5",
+    "text": "I forgot which username I use for the starter service.",
+    "label": "access",
+    "template_group": "access-11",
+    "split": "validation"
+  },
+  {
+    "id": "access-11-6",
+    "text": "I forgot which username I use for the analysis tool.",
+    "label": "access",
+    "template_group": "access-11",
+    "split": "validation"
+  },
+  {
+    "id": "access-11-7",
+    "text": "I forgot which username I use for the customer portal.",
+    "label": "access",
+    "template_group": "access-11",
+    "split": "validation"
+  },
+  {
+    "id": "access-12-0",
+    "text": "My session expires immediately in the team workspace.",
+    "label": "access",
+    "template_group": "access-12",
+    "split": "test"
+  },
+  {
+    "id": "access-12-1",
+    "text": "My session expires immediately in the monthly plan.",
+    "label": "access",
+    "template_group": "access-12",
+    "split": "test"
+  },
+  {
+    "id": "access-12-2",
+    "text": "My session expires immediately in the reporting portal.",
+    "label": "access",
+    "template_group": "access-12",
+    "split": "test"
+  },
+  {
+    "id": "access-12-3",
+    "text": "My session expires immediately in the shared dashboard.",
+    "label": "access",
+    "template_group": "access-12",
+    "split": "test"
+  },
+  {
+    "id": "access-12-4",
+    "text": "My session expires immediately in the project account.",
+    "label": "access",
+    "template_group": "access-12",
+    "split": "test"
+  },
+  {
+    "id": "access-12-5",
+    "text": "My session expires immediately in the starter service.",
+    "label": "access",
+    "template_group": "access-12",
+    "split": "test"
+  },
+  {
+    "id": "access-12-6",
+    "text": "My session expires immediately in the analysis tool.",
+    "label": "access",
+    "template_group": "access-12",
+    "split": "test"
+  },
+  {
+    "id": "access-12-7",
+    "text": "My session expires immediately in the customer portal.",
+    "label": "access",
+    "template_group": "access-12",
+    "split": "test"
+  },
+  {
+    "id": "access-13-0",
+    "text": "The invitation to access the team workspace does not work.",
+    "label": "access",
+    "template_group": "access-13",
+    "split": "test"
+  },
+  {
+    "id": "access-13-1",
+    "text": "The invitation to access the monthly plan does not work.",
+    "label": "access",
+    "template_group": "access-13",
+    "split": "test"
+  },
+  {
+    "id": "access-13-2",
+    "text": "The invitation to access the reporting portal does not work.",
+    "label": "access",
+    "template_group": "access-13",
+    "split": "test"
+  },
+  {
+    "id": "access-13-3",
+    "text": "The invitation to access the shared dashboard does not work.",
+    "label": "access",
+    "template_group": "access-13",
+    "split": "test"
+  },
+  {
+    "id": "access-13-4",
+    "text": "The invitation to access the project account does not work.",
+    "label": "access",
+    "template_group": "access-13",
+    "split": "test"
+  },
+  {
+    "id": "access-13-5",
+    "text": "The invitation to access the starter service does not work.",
+    "label": "access",
+    "template_group": "access-13",
+    "split": "test"
+  },
+  {
+    "id": "access-13-6",
+    "text": "The invitation to access the analysis tool does not work.",
+    "label": "access",
+    "template_group": "access-13",
+    "split": "test"
+  },
+  {
+    "id": "access-13-7",
+    "text": "The invitation to access the customer portal does not work.",
+    "label": "access",
+    "template_group": "access-13",
+    "split": "test"
+  },
+  {
+    "id": "access-14-0",
+    "text": "I cannot verify my identity for the team workspace.",
+    "label": "access",
+    "template_group": "access-14",
+    "split": "test"
+  },
+  {
+    "id": "access-14-1",
+    "text": "I cannot verify my identity for the monthly plan.",
+    "label": "access",
+    "template_group": "access-14",
+    "split": "test"
+  },
+  {
+    "id": "access-14-2",
+    "text": "I cannot verify my identity for the reporting portal.",
+    "label": "access",
+    "template_group": "access-14",
+    "split": "test"
+  },
+  {
+    "id": "access-14-3",
+    "text": "I cannot verify my identity for the shared dashboard.",
+    "label": "access",
+    "template_group": "access-14",
+    "split": "test"
+  },
+  {
+    "id": "access-14-4",
+    "text": "I cannot verify my identity for the project account.",
+    "label": "access",
+    "template_group": "access-14",
+    "split": "test"
+  },
+  {
+    "id": "access-14-5",
+    "text": "I cannot verify my identity for the starter service.",
+    "label": "access",
+    "template_group": "access-14",
+    "split": "test"
+  },
+  {
+    "id": "access-14-6",
+    "text": "I cannot verify my identity for the analysis tool.",
+    "label": "access",
+    "template_group": "access-14",
+    "split": "test"
+  },
+  {
+    "id": "access-14-7",
+    "text": "I cannot verify my identity for the customer portal.",
+    "label": "access",
+    "template_group": "access-14",
+    "split": "test"
+  },
+  {
+    "id": "bug-0-0",
+    "text": "The export button crashes the team workspace.",
+    "label": "bug",
+    "template_group": "bug-0",
+    "split": "train"
+  },
+  {
+    "id": "bug-0-1",
+    "text": "The export button crashes the monthly plan.",
+    "label": "bug",
+    "template_group": "bug-0",
+    "split": "train"
+  },
+  {
+    "id": "bug-0-2",
+    "text": "The export button crashes the reporting portal.",
+    "label": "bug",
+    "template_group": "bug-0",
+    "split": "train"
+  },
+  {
+    "id": "bug-0-3",
+    "text": "The export button crashes the shared dashboard.",
+    "label": "bug",
+    "template_group": "bug-0",
+    "split": "train"
+  },
+  {
+    "id": "bug-0-4",
+    "text": "The export button crashes the project account.",
+    "label": "bug",
+    "template_group": "bug-0",
+    "split": "train"
+  },
+  {
+    "id": "bug-0-5",
+    "text": "The export button crashes the starter service.",
+    "label": "bug",
+    "template_group": "bug-0",
+    "split": "train"
+  },
+  {
+    "id": "bug-0-6",
+    "text": "The export button crashes the analysis tool.",
+    "label": "bug",
+    "template_group": "bug-0",
+    "split": "train"
+  },
+  {
+    "id": "bug-0-7",
+    "text": "The export button crashes the customer portal.",
+    "label": "bug",
+    "template_group": "bug-0",
+    "split": "train"
+  },
+  {
+    "id": "bug-1-0",
+    "text": "A blank screen appears in the team workspace.",
+    "label": "bug",
+    "template_group": "bug-1",
+    "split": "train"
+  },
+  {
+    "id": "bug-1-1",
+    "text": "A blank screen appears in the monthly plan.",
+    "label": "bug",
+    "template_group": "bug-1",
+    "split": "train"
+  },
+  {
+    "id": "bug-1-2",
+    "text": "A blank screen appears in the reporting portal.",
+    "label": "bug",
+    "template_group": "bug-1",
+    "split": "train"
+  },
+  {
+    "id": "bug-1-3",
+    "text": "A blank screen appears in the shared dashboard.",
+    "label": "bug",
+    "template_group": "bug-1",
+    "split": "train"
+  },
+  {
+    "id": "bug-1-4",
+    "text": "A blank screen appears in the project account.",
+    "label": "bug",
+    "template_group": "bug-1",
+    "split": "train"
+  },
+  {
+    "id": "bug-1-5",
+    "text": "A blank screen appears in the starter service.",
+    "label": "bug",
+    "template_group": "bug-1",
+    "split": "train"
+  },
+  {
+    "id": "bug-1-6",
+    "text": "A blank screen appears in the analysis tool.",
+    "label": "bug",
+    "template_group": "bug-1",
+    "split": "train"
+  },
+  {
+    "id": "bug-1-7",
+    "text": "A blank screen appears in the customer portal.",
+    "label": "bug",
+    "template_group": "bug-1",
+    "split": "train"
+  },
+  {
+    "id": "bug-2-0",
+    "text": "The search results are broken in the team workspace.",
+    "label": "bug",
+    "template_group": "bug-2",
+    "split": "train"
+  },
+  {
+    "id": "bug-2-1",
+    "text": "The search results are broken in the monthly plan.",
+    "label": "bug",
+    "template_group": "bug-2",
+    "split": "train"
+  },
+  {
+    "id": "bug-2-2",
+    "text": "The search results are broken in the reporting portal.",
+    "label": "bug",
+    "template_group": "bug-2",
+    "split": "train"
+  },
+  {
+    "id": "bug-2-3",
+    "text": "The search results are broken in the shared dashboard.",
+    "label": "bug",
+    "template_group": "bug-2",
+    "split": "train"
+  },
+  {
+    "id": "bug-2-4",
+    "text": "The search results are broken in the project account.",
+    "label": "bug",
+    "template_group": "bug-2",
+    "split": "train"
+  },
+  {
+    "id": "bug-2-5",
+    "text": "The search results are broken in the starter service.",
+    "label": "bug",
+    "template_group": "bug-2",
+    "split": "train"
+  },
+  {
+    "id": "bug-2-6",
+    "text": "The search results are broken in the analysis tool.",
+    "label": "bug",
+    "template_group": "bug-2",
+    "split": "train"
+  },
+  {
+    "id": "bug-2-7",
+    "text": "The search results are broken in the customer portal.",
+    "label": "bug",
+    "template_group": "bug-2",
+    "split": "train"
+  },
+  {
+    "id": "bug-3-0",
+    "text": "An error appears when saving the team workspace.",
+    "label": "bug",
+    "template_group": "bug-3",
+    "split": "train"
+  },
+  {
+    "id": "bug-3-1",
+    "text": "An error appears when saving the monthly plan.",
+    "label": "bug",
+    "template_group": "bug-3",
+    "split": "train"
+  },
+  {
+    "id": "bug-3-2",
+    "text": "An error appears when saving the reporting portal.",
+    "label": "bug",
+    "template_group": "bug-3",
+    "split": "train"
+  },
+  {
+    "id": "bug-3-3",
+    "text": "An error appears when saving the shared dashboard.",
+    "label": "bug",
+    "template_group": "bug-3",
+    "split": "train"
+  },
+  {
+    "id": "bug-3-4",
+    "text": "An error appears when saving the project account.",
+    "label": "bug",
+    "template_group": "bug-3",
+    "split": "train"
+  },
+  {
+    "id": "bug-3-5",
+    "text": "An error appears when saving the starter service.",
+    "label": "bug",
+    "template_group": "bug-3",
+    "split": "train"
+  },
+  {
+    "id": "bug-3-6",
+    "text": "An error appears when saving the analysis tool.",
+    "label": "bug",
+    "template_group": "bug-3",
+    "split": "train"
+  },
+  {
+    "id": "bug-3-7",
+    "text": "An error appears when saving the customer portal.",
+    "label": "bug",
+    "template_group": "bug-3",
+    "split": "train"
+  },
+  {
+    "id": "bug-4-0",
+    "text": "The chart does not load in the team workspace.",
+    "label": "bug",
+    "template_group": "bug-4",
+    "split": "train"
+  },
+  {
+    "id": "bug-4-1",
+    "text": "The chart does not load in the monthly plan.",
+    "label": "bug",
+    "template_group": "bug-4",
+    "split": "train"
+  },
+  {
+    "id": "bug-4-2",
+    "text": "The chart does not load in the reporting portal.",
+    "label": "bug",
+    "template_group": "bug-4",
+    "split": "train"
+  },
+  {
+    "id": "bug-4-3",
+    "text": "The chart does not load in the shared dashboard.",
+    "label": "bug",
+    "template_group": "bug-4",
+    "split": "train"
+  },
+  {
+    "id": "bug-4-4",
+    "text": "The chart does not load in the project account.",
+    "label": "bug",
+    "template_group": "bug-4",
+    "split": "train"
+  },
+  {
+    "id": "bug-4-5",
+    "text": "The chart does not load in the starter service.",
+    "label": "bug",
+    "template_group": "bug-4",
+    "split": "train"
+  },
+  {
+    "id": "bug-4-6",
+    "text": "The chart does not load in the analysis tool.",
+    "label": "bug",
+    "template_group": "bug-4",
+    "split": "train"
+  },
+  {
+    "id": "bug-4-7",
+    "text": "The chart does not load in the customer portal.",
+    "label": "bug",
+    "template_group": "bug-4",
+    "split": "train"
+  },
+  {
+    "id": "bug-5-0",
+    "text": "The application freezes while opening the team workspace.",
+    "label": "bug",
+    "template_group": "bug-5",
+    "split": "train"
+  },
+  {
+    "id": "bug-5-1",
+    "text": "The application freezes while opening the monthly plan.",
+    "label": "bug",
+    "template_group": "bug-5",
+    "split": "train"
+  },
+  {
+    "id": "bug-5-2",
+    "text": "The application freezes while opening the reporting portal.",
+    "label": "bug",
+    "template_group": "bug-5",
+    "split": "train"
+  },
+  {
+    "id": "bug-5-3",
+    "text": "The application freezes while opening the shared dashboard.",
+    "label": "bug",
+    "template_group": "bug-5",
+    "split": "train"
+  },
+  {
+    "id": "bug-5-4",
+    "text": "The application freezes while opening the project account.",
+    "label": "bug",
+    "template_group": "bug-5",
+    "split": "train"
+  },
+  {
+    "id": "bug-5-5",
+    "text": "The application freezes while opening the starter service.",
+    "label": "bug",
+    "template_group": "bug-5",
+    "split": "train"
+  },
+  {
+    "id": "bug-5-6",
+    "text": "The application freezes while opening the analysis tool.",
+    "label": "bug",
+    "template_group": "bug-5",
+    "split": "train"
+  },
+  {
+    "id": "bug-5-7",
+    "text": "The application freezes while opening the customer portal.",
+    "label": "bug",
+    "template_group": "bug-5",
+    "split": "train"
+  },
+  {
+    "id": "bug-6-0",
+    "text": "The file upload fails in the team workspace.",
+    "label": "bug",
+    "template_group": "bug-6",
+    "split": "train"
+  },
+  {
+    "id": "bug-6-1",
+    "text": "The file upload fails in the monthly plan.",
+    "label": "bug",
+    "template_group": "bug-6",
+    "split": "train"
+  },
+  {
+    "id": "bug-6-2",
+    "text": "The file upload fails in the reporting portal.",
+    "label": "bug",
+    "template_group": "bug-6",
+    "split": "train"
+  },
+  {
+    "id": "bug-6-3",
+    "text": "The file upload fails in the shared dashboard.",
+    "label": "bug",
+    "template_group": "bug-6",
+    "split": "train"
+  },
+  {
+    "id": "bug-6-4",
+    "text": "The file upload fails in the project account.",
+    "label": "bug",
+    "template_group": "bug-6",
+    "split": "train"
+  },
+  {
+    "id": "bug-6-5",
+    "text": "The file upload fails in the starter service.",
+    "label": "bug",
+    "template_group": "bug-6",
+    "split": "train"
+  },
+  {
+    "id": "bug-6-6",
+    "text": "The file upload fails in the analysis tool.",
+    "label": "bug",
+    "template_group": "bug-6",
+    "split": "train"
+  },
+  {
+    "id": "bug-6-7",
+    "text": "The file upload fails in the customer portal.",
+    "label": "bug",
+    "template_group": "bug-6",
+    "split": "train"
+  },
+  {
+    "id": "bug-7-0",
+    "text": "I found a display defect in the team workspace.",
+    "label": "bug",
+    "template_group": "bug-7",
+    "split": "train"
+  },
+  {
+    "id": "bug-7-1",
+    "text": "I found a display defect in the monthly plan.",
+    "label": "bug",
+    "template_group": "bug-7",
+    "split": "train"
+  },
+  {
+    "id": "bug-7-2",
+    "text": "I found a display defect in the reporting portal.",
+    "label": "bug",
+    "template_group": "bug-7",
+    "split": "train"
+  },
+  {
+    "id": "bug-7-3",
+    "text": "I found a display defect in the shared dashboard.",
+    "label": "bug",
+    "template_group": "bug-7",
+    "split": "train"
+  },
+  {
+    "id": "bug-7-4",
+    "text": "I found a display defect in the project account.",
+    "label": "bug",
+    "template_group": "bug-7",
+    "split": "train"
+  },
+  {
+    "id": "bug-7-5",
+    "text": "I found a display defect in the starter service.",
+    "label": "bug",
+    "template_group": "bug-7",
+    "split": "train"
+  },
+  {
+    "id": "bug-7-6",
+    "text": "I found a display defect in the analysis tool.",
+    "label": "bug",
+    "template_group": "bug-7",
+    "split": "train"
+  },
+  {
+    "id": "bug-7-7",
+    "text": "I found a display defect in the customer portal.",
+    "label": "bug",
+    "template_group": "bug-7",
+    "split": "train"
+  },
+  {
+    "id": "bug-8-0",
+    "text": "The download generates an empty file for the team workspace.",
+    "label": "bug",
+    "template_group": "bug-8",
+    "split": "train"
+  },
+  {
+    "id": "bug-8-1",
+    "text": "The download generates an empty file for the monthly plan.",
+    "label": "bug",
+    "template_group": "bug-8",
+    "split": "train"
+  },
+  {
+    "id": "bug-8-2",
+    "text": "The download generates an empty file for the reporting portal.",
+    "label": "bug",
+    "template_group": "bug-8",
+    "split": "train"
+  },
+  {
+    "id": "bug-8-3",
+    "text": "The download generates an empty file for the shared dashboard.",
+    "label": "bug",
+    "template_group": "bug-8",
+    "split": "train"
+  },
+  {
+    "id": "bug-8-4",
+    "text": "The download generates an empty file for the project account.",
+    "label": "bug",
+    "template_group": "bug-8",
+    "split": "train"
+  },
+  {
+    "id": "bug-8-5",
+    "text": "The download generates an empty file for the starter service.",
+    "label": "bug",
+    "template_group": "bug-8",
+    "split": "train"
+  },
+  {
+    "id": "bug-8-6",
+    "text": "The download generates an empty file for the analysis tool.",
+    "label": "bug",
+    "template_group": "bug-8",
+    "split": "train"
+  },
+  {
+    "id": "bug-8-7",
+    "text": "The download generates an empty file for the customer portal.",
+    "label": "bug",
+    "template_group": "bug-8",
+    "split": "train"
+  },
+  {
+    "id": "bug-9-0",
+    "text": "Data disappears after refreshing the team workspace.",
+    "label": "bug",
+    "template_group": "bug-9",
+    "split": "validation"
+  },
+  {
+    "id": "bug-9-1",
+    "text": "Data disappears after refreshing the monthly plan.",
+    "label": "bug",
+    "template_group": "bug-9",
+    "split": "validation"
+  },
+  {
+    "id": "bug-9-2",
+    "text": "Data disappears after refreshing the reporting portal.",
+    "label": "bug",
+    "template_group": "bug-9",
+    "split": "validation"
+  },
+  {
+    "id": "bug-9-3",
+    "text": "Data disappears after refreshing the shared dashboard.",
+    "label": "bug",
+    "template_group": "bug-9",
+    "split": "validation"
+  },
+  {
+    "id": "bug-9-4",
+    "text": "Data disappears after refreshing the project account.",
+    "label": "bug",
+    "template_group": "bug-9",
+    "split": "validation"
+  },
+  {
+    "id": "bug-9-5",
+    "text": "Data disappears after refreshing the starter service.",
+    "label": "bug",
+    "template_group": "bug-9",
+    "split": "validation"
+  },
+  {
+    "id": "bug-9-6",
+    "text": "Data disappears after refreshing the analysis tool.",
+    "label": "bug",
+    "template_group": "bug-9",
+    "split": "validation"
+  },
+  {
+    "id": "bug-9-7",
+    "text": "Data disappears after refreshing the customer portal.",
+    "label": "bug",
+    "template_group": "bug-9",
+    "split": "validation"
+  },
+  {
+    "id": "bug-10-0",
+    "text": "The page returns a server error in the team workspace.",
+    "label": "bug",
+    "template_group": "bug-10",
+    "split": "validation"
+  },
+  {
+    "id": "bug-10-1",
+    "text": "The page returns a server error in the monthly plan.",
+    "label": "bug",
+    "template_group": "bug-10",
+    "split": "validation"
+  },
+  {
+    "id": "bug-10-2",
+    "text": "The page returns a server error in the reporting portal.",
+    "label": "bug",
+    "template_group": "bug-10",
+    "split": "validation"
+  },
+  {
+    "id": "bug-10-3",
+    "text": "The page returns a server error in the shared dashboard.",
+    "label": "bug",
+    "template_group": "bug-10",
+    "split": "validation"
+  },
+  {
+    "id": "bug-10-4",
+    "text": "The page returns a server error in the project account.",
+    "label": "bug",
+    "template_group": "bug-10",
+    "split": "validation"
+  },
+  {
+    "id": "bug-10-5",
+    "text": "The page returns a server error in the starter service.",
+    "label": "bug",
+    "template_group": "bug-10",
+    "split": "validation"
+  },
+  {
+    "id": "bug-10-6",
+    "text": "The page returns a server error in the analysis tool.",
+    "label": "bug",
+    "template_group": "bug-10",
+    "split": "validation"
+  },
+  {
+    "id": "bug-10-7",
+    "text": "The page returns a server error in the customer portal.",
+    "label": "bug",
+    "template_group": "bug-10",
+    "split": "validation"
+  },
+  {
+    "id": "bug-11-0",
+    "text": "The filters show incorrect results in the team workspace.",
+    "label": "bug",
+    "template_group": "bug-11",
+    "split": "validation"
+  },
+  {
+    "id": "bug-11-1",
+    "text": "The filters show incorrect results in the monthly plan.",
+    "label": "bug",
+    "template_group": "bug-11",
+    "split": "validation"
+  },
+  {
+    "id": "bug-11-2",
+    "text": "The filters show incorrect results in the reporting portal.",
+    "label": "bug",
+    "template_group": "bug-11",
+    "split": "validation"
+  },
+  {
+    "id": "bug-11-3",
+    "text": "The filters show incorrect results in the shared dashboard.",
+    "label": "bug",
+    "template_group": "bug-11",
+    "split": "validation"
+  },
+  {
+    "id": "bug-11-4",
+    "text": "The filters show incorrect results in the project account.",
+    "label": "bug",
+    "template_group": "bug-11",
+    "split": "validation"
+  },
+  {
+    "id": "bug-11-5",
+    "text": "The filters show incorrect results in the starter service.",
+    "label": "bug",
+    "template_group": "bug-11",
+    "split": "validation"
+  },
+  {
+    "id": "bug-11-6",
+    "text": "The filters show incorrect results in the analysis tool.",
+    "label": "bug",
+    "template_group": "bug-11",
+    "split": "validation"
+  },
+  {
+    "id": "bug-11-7",
+    "text": "The filters show incorrect results in the customer portal.",
+    "label": "bug",
+    "template_group": "bug-11",
+    "split": "validation"
+  },
+  {
+    "id": "bug-12-0",
+    "text": "The date selector is not responding in the team workspace.",
+    "label": "bug",
+    "template_group": "bug-12",
+    "split": "test"
+  },
+  {
+    "id": "bug-12-1",
+    "text": "The date selector is not responding in the monthly plan.",
+    "label": "bug",
+    "template_group": "bug-12",
+    "split": "test"
+  },
+  {
+    "id": "bug-12-2",
+    "text": "The date selector is not responding in the reporting portal.",
+    "label": "bug",
+    "template_group": "bug-12",
+    "split": "test"
+  },
+  {
+    "id": "bug-12-3",
+    "text": "The date selector is not responding in the shared dashboard.",
+    "label": "bug",
+    "template_group": "bug-12",
+    "split": "test"
+  },
+  {
+    "id": "bug-12-4",
+    "text": "The date selector is not responding in the project account.",
+    "label": "bug",
+    "template_group": "bug-12",
+    "split": "test"
+  },
+  {
+    "id": "bug-12-5",
+    "text": "The date selector is not responding in the starter service.",
+    "label": "bug",
+    "template_group": "bug-12",
+    "split": "test"
+  },
+  {
+    "id": "bug-12-6",
+    "text": "The date selector is not responding in the analysis tool.",
+    "label": "bug",
+    "template_group": "bug-12",
+    "split": "test"
+  },
+  {
+    "id": "bug-12-7",
+    "text": "The date selector is not responding in the customer portal.",
+    "label": "bug",
+    "template_group": "bug-12",
+    "split": "test"
+  },
+  {
+    "id": "bug-13-0",
+    "text": "The mobile layout is unreadable in the team workspace.",
+    "label": "bug",
+    "template_group": "bug-13",
+    "split": "test"
+  },
+  {
+    "id": "bug-13-1",
+    "text": "The mobile layout is unreadable in the monthly plan.",
+    "label": "bug",
+    "template_group": "bug-13",
+    "split": "test"
+  },
+  {
+    "id": "bug-13-2",
+    "text": "The mobile layout is unreadable in the reporting portal.",
+    "label": "bug",
+    "template_group": "bug-13",
+    "split": "test"
+  },
+  {
+    "id": "bug-13-3",
+    "text": "The mobile layout is unreadable in the shared dashboard.",
+    "label": "bug",
+    "template_group": "bug-13",
+    "split": "test"
+  },
+  {
+    "id": "bug-13-4",
+    "text": "The mobile layout is unreadable in the project account.",
+    "label": "bug",
+    "template_group": "bug-13",
+    "split": "test"
+  },
+  {
+    "id": "bug-13-5",
+    "text": "The mobile layout is unreadable in the starter service.",
+    "label": "bug",
+    "template_group": "bug-13",
+    "split": "test"
+  },
+  {
+    "id": "bug-13-6",
+    "text": "The mobile layout is unreadable in the analysis tool.",
+    "label": "bug",
+    "template_group": "bug-13",
+    "split": "test"
+  },
+  {
+    "id": "bug-13-7",
+    "text": "The mobile layout is unreadable in the customer portal.",
+    "label": "bug",
+    "template_group": "bug-13",
+    "split": "test"
+  },
+  {
+    "id": "bug-14-0",
+    "text": "The application hangs during synchronization of the team workspace.",
+    "label": "bug",
+    "template_group": "bug-14",
+    "split": "test"
+  },
+  {
+    "id": "bug-14-1",
+    "text": "The application hangs during synchronization of the monthly plan.",
+    "label": "bug",
+    "template_group": "bug-14",
+    "split": "test"
+  },
+  {
+    "id": "bug-14-2",
+    "text": "The application hangs during synchronization of the reporting portal.",
+    "label": "bug",
+    "template_group": "bug-14",
+    "split": "test"
+  },
+  {
+    "id": "bug-14-3",
+    "text": "The application hangs during synchronization of the shared dashboard.",
+    "label": "bug",
+    "template_group": "bug-14",
+    "split": "test"
+  },
+  {
+    "id": "bug-14-4",
+    "text": "The application hangs during synchronization of the project account.",
+    "label": "bug",
+    "template_group": "bug-14",
+    "split": "test"
+  },
+  {
+    "id": "bug-14-5",
+    "text": "The application hangs during synchronization of the starter service.",
+    "label": "bug",
+    "template_group": "bug-14",
+    "split": "test"
+  },
+  {
+    "id": "bug-14-6",
+    "text": "The application hangs during synchronization of the analysis tool.",
+    "label": "bug",
+    "template_group": "bug-14",
+    "split": "test"
+  },
+  {
+    "id": "bug-14-7",
+    "text": "The application hangs during synchronization of the customer portal.",
+    "label": "bug",
+    "template_group": "bug-14",
+    "split": "test"
+  }
+]

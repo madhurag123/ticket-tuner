@@ -1,0 +1,441 @@
+{
+  "answer": "Suggested routing: billing. Human review required.",
+  "details": {
+    "epochs": [
+      {
+        "accuracy": 0.7361111111111112,
+        "epoch": 1,
+        "invalid_labels": 0,
+        "macro_f1": 0.6748938373174947,
+        "train_loss": 0.9109111593829261
+      },
+      {
+        "accuracy": 0.875,
+        "epoch": 2,
+        "invalid_labels": 0,
+        "macro_f1": 0.8719851576994433,
+        "train_loss": 0.3744959193799231
+      },
+      {
+        "accuracy": 0.8888888888888888,
+        "epoch": 3,
+        "invalid_labels": 0,
+        "macro_f1": 0.8857142857142857,
+        "train_loss": 0.13820023413885524
+      },
+      {
+        "accuracy": 0.8888888888888888,
+        "epoch": 4,
+        "invalid_labels": 0,
+        "macro_f1": 0.8857142857142857,
+        "train_loss": 0.019626776381671703
+      },
+      {
+        "accuracy": 0.8888888888888888,
+        "epoch": 5,
+        "invalid_labels": 0,
+        "macro_f1": 0.8857142857142857,
+        "train_loss": 0.008801861707508107
+      }
+    ],
+    "holdout_finetuned": {
+      "accuracy": 1.0,
+      "invalid_labels": 0,
+      "macro_f1": 1.0
+    },
+    "holdout_majority_accuracy": 0.3333333333333333,
+    "holdout_tfidf_baseline": {
+      "accuracy": 0.6805555555555556,
+      "invalid_labels": 0,
+      "macro_f1": 0.6669763840495548
+    },
+    "limitations": "Authored synthetic language only; no user tickets; tiny heldout template set. Test was used once after validation checkpoint selection.",
+    "model_source": {
+      "license": "Apache-2.0",
+      "model": "google/flan-t5-small",
+      "purpose": "Fine-tune a small instruction model to output support routing labels",
+      "revision": "0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab"
+    },
+    "predictions": [
+      {
+        "expected": "billing",
+        "id": "billing-12-0",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-12-1",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-12-2",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-12-3",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-12-4",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-12-5",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-12-6",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-12-7",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-13-0",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-13-1",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-13-2",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-13-3",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-13-4",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-13-5",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-13-6",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-13-7",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-14-0",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-14-1",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-14-2",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-14-3",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-14-4",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-14-5",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-14-6",
+        "predicted": "billing"
+      },
+      {
+        "expected": "billing",
+        "id": "billing-14-7",
+        "predicted": "billing"
+      },
+      {
+        "expected": "access",
+        "id": "access-12-0",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-12-1",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-12-2",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-12-3",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-12-4",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-12-5",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-12-6",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-12-7",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-13-0",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-13-1",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-13-2",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-13-3",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-13-4",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-13-5",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-13-6",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-13-7",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-14-0",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-14-1",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-14-2",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-14-3",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-14-4",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-14-5",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-14-6",
+        "predicted": "access"
+      },
+      {
+        "expected": "access",
+        "id": "access-14-7",
+        "predicted": "access"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-12-0",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-12-1",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-12-2",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-12-3",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-12-4",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-12-5",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-12-6",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-12-7",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-13-0",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-13-1",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-13-2",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-13-3",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-13-4",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-13-5",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-13-6",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-13-7",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-14-0",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-14-1",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-14-2",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-14-3",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-14-4",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-14-5",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-14-6",
+        "predicted": "bug"
+      },
+      {
+        "expected": "bug",
+        "id": "bug-14-7",
+        "predicted": "bug"
+      }
+    ],
+    "seconds": 19.37,
+    "seed": 28,
+    "split_sizes": {
+      "test": 72,
+      "train": 216,
+      "validation": 72
+    },
+    "split_unit": "template family; all item expansions remain in one split",
+    "validation_zero_shot": {
+      "accuracy": 0.3333333333333333,
+      "invalid_labels": 5,
+      "macro_f1": 0.35286209286209286
+    }
+  },
+  "metrics": {
+    "Holdout macro F1": 1.0,
+    "Routing category": "billing",
+    "Training examples": 216
+  },
+  "notice": "Actual locally fine-tuned small language model output. No ticket is sent to a service. Long inputs are truncated at 96 tokens."
+}

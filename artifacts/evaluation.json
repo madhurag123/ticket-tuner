@@ -1,0 +1,432 @@
+{
+  "model_source": {
+    "model": "google/flan-t5-small",
+    "revision": "0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab",
+    "license": "Apache-2.0",
+    "purpose": "Fine-tune a small instruction model to output support routing labels"
+  },
+  "seed": 28,
+  "split_sizes": {
+    "train": 216,
+    "validation": 72,
+    "test": 72
+  },
+  "split_unit": "template family; all item expansions remain in one split",
+  "validation_zero_shot": {
+    "accuracy": 0.3333333333333333,
+    "macro_f1": 0.35286209286209286,
+    "invalid_labels": 5
+  },
+  "epochs": [
+    {
+      "epoch": 1,
+      "train_loss": 0.9109111593829261,
+      "accuracy": 0.7361111111111112,
+      "macro_f1": 0.6748938373174947,
+      "invalid_labels": 0
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.3744959193799231,
+      "accuracy": 0.875,
+      "macro_f1": 0.8719851576994433,
+      "invalid_labels": 0
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.13820023413885524,
+      "accuracy": 0.8888888888888888,
+      "macro_f1": 0.8857142857142857,
+      "invalid_labels": 0
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.019626776381671703,
+      "accuracy": 0.8888888888888888,
+      "macro_f1": 0.8857142857142857,
+      "invalid_labels": 0
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.008801861707508107,
+      "accuracy": 0.8888888888888888,
+      "macro_f1": 0.8857142857142857,
+      "invalid_labels": 0
+    }
+  ],
+  "holdout_finetuned": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "invalid_labels": 0
+  },
+  "holdout_tfidf_baseline": {
+    "accuracy": 0.6805555555555556,
+    "macro_f1": 0.6669763840495548,
+    "invalid_labels": 0
+  },
+  "holdout_majority_accuracy": 0.3333333333333333,
+  "seconds": 19.37,
+  "predictions": [
+    {
+      "id": "billing-12-0",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-12-1",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-12-2",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-12-3",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-12-4",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-12-5",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-12-6",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-12-7",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-13-0",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-13-1",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-13-2",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-13-3",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-13-4",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-13-5",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-13-6",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-13-7",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-14-0",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-14-1",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-14-2",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-14-3",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-14-4",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-14-5",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-14-6",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "billing-14-7",
+      "expected": "billing",
+      "predicted": "billing"
+    },
+    {
+      "id": "access-12-0",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-12-1",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-12-2",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-12-3",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-12-4",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-12-5",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-12-6",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-12-7",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-13-0",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-13-1",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-13-2",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-13-3",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-13-4",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-13-5",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-13-6",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-13-7",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-14-0",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-14-1",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-14-2",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-14-3",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-14-4",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-14-5",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-14-6",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "access-14-7",
+      "expected": "access",
+      "predicted": "access"
+    },
+    {
+      "id": "bug-12-0",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-12-1",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-12-2",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-12-3",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-12-4",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-12-5",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-12-6",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-12-7",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-13-0",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-13-1",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-13-2",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-13-3",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-13-4",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-13-5",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-13-6",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-13-7",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-14-0",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-14-1",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-14-2",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-14-3",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-14-4",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-14-5",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-14-6",
+      "expected": "bug",
+      "predicted": "bug"
+    },
+    {
+      "id": "bug-14-7",
+      "expected": "bug",
+      "predicted": "bug"
+    }
+  ],
+  "limitations": "Authored synthetic language only; no user tickets; tiny heldout template set. Test was used once after validation checkpoint selection."
+}

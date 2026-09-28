@@ -1,0 +1,9 @@
+{
+  "slug": "ticket-tuner",
+  "fresh_venv": "work/clean-envs/ticket-tuner",
+  "fresh_checkout": "work/clean/ticket-tuner",
+  "passed": true,
+  "failure": null,
+  "runtime": "Python 3.12.14",
+  "model_training": "separate measured run; weights excluded from source"
+}

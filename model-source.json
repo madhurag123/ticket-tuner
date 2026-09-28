@@ -1,0 +1,6 @@
+{
+  "model": "google/flan-t5-small",
+  "revision": "0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab",
+  "license": "Apache-2.0",
+  "purpose": "Fine-tune a small instruction model to output support routing labels"
+}
