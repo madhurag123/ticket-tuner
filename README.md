@@ -2,7 +2,7 @@
 
 Adapt a small model for support routing for **support platform developers**.
 
-Original topic: **Fine-Tuned LLM for a Niche Task** from [the source post](https://www.instagram.com/p/DdyMaogE4ud/).
+Original topic: **Fine-Tuned LLM for a Niche Task** 
 
 > Local portfolio implementation developed with Codex assistance. Measured results and limitations are documented; no production adoption, revenue or hiring outcome is claimed.
 
